@@ -1,0 +1,20 @@
+#deb http://mirrordirector.raspbian.org/raspbian/ jessie main contrib non-free rpi
+# Uncomment line below then 'apt-get update' to enable 'apt-get source'
+deb-src http://archive.raspbian.org/raspbian/ jessie main contrib non-free rpi
+
+deb http://mirror.nus.edu.sg/raspbian/raspbian jessie main contrib non-free rpi
+
+#deb http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/ jessie main contrib non-free rpi
+
+#deb http://mirrors.neusoft.edu.cn/raspbian/raspbian jessie main contrib non-free rpi
+
+#deb http://mirror.sysu.edu.cn/raspbian/ jessie main contrib non-free rpi
+
+#deb http://mirrors.zju.edu.cn/raspbian/raspbian/ jessie main contrib non-free rpi
+
+#deb http://mirrors.cqu.edu.cn/Raspbian/raspbian/ jessie main contrib non-free rpi
+
+#deb http://mirror.devunt.kr/raspbian/raspbian/  jessie main contrib non-free rpi
+
+#deb http://mirrors.hustunique.com/raspbian/raspbian/ jessie main contrib non-free rpi
+#deb-src http://mirrors.hustunique.com/raspbian/raspbian/ jessie main contrib non-free rpi
